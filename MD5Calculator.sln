@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5Calculator", "MD5Calculator\MD5Calculator.csproj", "{4D2E4CB9-7837-421B-8B4D-0C1CB1A72A54}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4D2E4CB9-7837-421B-8B4D-0C1CB1A72A54}.Debug.ActiveCfg = Debug|.NET
+		{4D2E4CB9-7837-421B-8B4D-0C1CB1A72A54}.Debug.Build.0 = Debug|.NET
+		{4D2E4CB9-7837-421B-8B4D-0C1CB1A72A54}.Release.ActiveCfg = Release|.NET
+		{4D2E4CB9-7837-421B-8B4D-0C1CB1A72A54}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
